@@ -1,4 +1,4 @@
-let vingador = "Homem de ferro";
+let vingador = "Capitão América";
 
 if (vingador === "Homem de ferro"){
     console.log("sou o melhor vingador")
